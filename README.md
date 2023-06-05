@@ -1,2 +1,2 @@
-# fakenewsdetection
-Datamining project
+# Fake News Detection
+
